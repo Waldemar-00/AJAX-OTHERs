@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 26,
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjM3MjM3NTAxM15BMl5BanBnXkFtZTgwMTY0Nzg2OTE@._V1_.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "https://i.pinimg.com/736x/7b/69/42/7b6942114d86d0ccc264d29bdb821b55.jpg"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "https://vjoy.cc/wp-content/uploads/2020/10/1132239.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 23,
+      "photo": "https://i.pinimg.com/474x/ed/3b/00/ed3b0072ff729c66f58c18f2c6850b87.jpg"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+    }
+  ]
+}
