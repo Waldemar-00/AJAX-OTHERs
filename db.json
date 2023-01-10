@@ -34,6 +34,18 @@
       "sex": "male",
       "age": 30,
       "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+    },
+    {
+      "name": "2",
+      "surname": "3",
+      "age": "44",
+      "id": "0.7632920681234907"
+    },
+    {
+      "name": "4",
+      "surname": "5",
+      "age": "40",
+      "id": "0.6819426600235017"
     }
   ]
 }
