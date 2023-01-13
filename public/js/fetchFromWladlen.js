@@ -1,8 +1,8 @@
 const url = "https://jsonplaceholder.typicode.com/users";
 const headers = {
-    "Content-type": "application/json",
+    "Content-type": "application/json;charset=utf-8",
 };
-const sendRequest = ( method, url, headers, body) => {
+const sendRequest = ( url, method,  headers, body ) => {
     return fetch(url, { 
         method: method,
         headers: headers,
@@ -25,6 +25,6 @@ const body = {
     name: 'Wladlen',
     ege: 27,
 };
-sendRequest( 'POST', url, headers, body )
+const res = (sendRequest( url, 'POST',  headers, body )
 .then( data => console.log( data ) )
-.catch( err => console.log( err ) );
+.catch( err => console.log( err ) ));
