@@ -15,5 +15,8 @@ const postAxios = (axios) => {
         .then((response) => {
             console.log(response[0].data);
             console.log(response[1].data);
+            console.log(response[1].headers);
+            console.log(response[1].config);
+            console.log(response[1].status);
         });
 });
